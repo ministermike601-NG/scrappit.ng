@@ -132,7 +132,9 @@ const About = () => {
                 <Target className="w-12 h-12 text-primary mb-4" />
                 <h2 className="text-3xl font-bold mb-4">Our Mission</h2>
                 <p className="text-muted-foreground leading-relaxed text-lg">
-                  At Scrapit.ng, our mission is to make recycling and resale simple, secure, and profitable. We connect sellers with trusted buyers nationwide, helping transform unwanted items into valuable resources. Through innovation, transparency, and a commitment to sustainability, we aim to drive a cleaner, greener, and more economically empowered Nigeria.
+                  At Scrapit.ng, our mission is to empower Lagosians by transforming waste into wealth—delivering fair value for unwanted items, promoting sustainable recycling, and making decluttering effortless for every household and business.
+As a hands-on Lagos entrepreneur, Ken stays deeply involved in daily operations to guarantee top service: competitive offers based on real market rates, free pickups across most Lagos areas (from Ikeja to Lekki, Surulere to Mainland), and instant payments via cash or bank transfer right at the pickup. Over the past seven years, we've served hundreds of satisfied customers, cleared countless spaces, put extra naira in pockets during tough times, and diverted usable materials from landfills—contributing to a cleaner, greener Lagos one load at a time.
+
                 </p>
               </CardContent>
             </Card>
@@ -142,7 +144,8 @@ const About = () => {
                 <Heart className="w-12 h-12 text-primary mb-4" />
                 <h2 className="text-3xl font-bold mb-4">Our Story</h2>
                 <p className="text-muted-foreground leading-relaxed text-lg">
-                  Scrapit was built to solve a common problem: <span className="text-foreground font-semibold">unused items piling up</span> in homes and offices with nowhere to go. We created a simple, trusted platform where you can get fair quotes within 24 hours and receive instant payment — no stress, no waiting.
+                  Scrapit was Founded in 2019 by: <span className="text-foreground font-semibold">CEO Kenneth Ehiabh</span>right here in Lagos, ScrapIt.ng was born out of a simple yet powerful idea: help everyday Nigerians turn unwanted clutter into quick cash while keeping our environment cleaner through smart recycling and reuse.
+Ken spotted a real gap in the market tons of valuable items sitting idle in homes, offices, and compounds across Lagos: old cars in any condition, outdated fridges, air conditioners, office furniture, computers, metal scraps, generators, and more. These things weren't just taking up space; they represented untapped money for families and businesses struggling with rising costs. He launched ScrapIt.ng to bridge that gap, making the process fast, transparent, and fair—no endless haggling, no unreliable buyers, just straightforward deals.
                 </p>
               </CardContent>
             </Card>
